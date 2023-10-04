@@ -1,6 +1,23 @@
+Hi, I'm Benjamin Stubina, a former Materials Science Engineer turned self-taught full-stack web developer from Canada. My passion for solving technical problems with creative solutions led me to pursue a career in software development. I take pride in the quality of the code I write and I'm always excited to learn from building projects and learning new technologies.
 
+▪️ Completed a Software Engineering Bootcamp at [BrainStation](https://brainstation.io)
+<br/>
+▪️ B.Eng in Materials Science and Engineering (Co-op) from McMaster University
+<br/>
+▪️ Spent 2 years working as a Thermal Processing Engineer at [Stackpole International](https://www.stackpole.com/)
+<br/>
+▪️ Love camping, climbing, and video games!
+<br/>
 
-🛠️ ***Languages and Tools:***
+I'm currently looking for a Jr/Internship frontend/full-stack role!
+
+Reach out to me via:
+<br/>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-stubina/)
+<br/>
+or by [email](mailto:benjamin.stubina@gmail.com)
+
+***Languages and Tools:***
 
 ![React](https://img.shields.io/badge/react-%23430098.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
