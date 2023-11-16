@@ -4,7 +4,7 @@ Hi, I'm Benjamin Stubina, a former Materials Science Engineer turned self-taught
 <br/>
 ▪️ B.Eng in Materials Science and Engineering (Co-op) from McMaster University
 <br/>
-▪️ Spent 2 years working as a Thermal Processing Engineer at [Stackpole International](https://www.stackpole.com/)
+▪️ 2+ years working as a Thermal Processing Engineer at [Stackpole International](https://www.stackpole.com/)
 <br/>
 ▪️ Love camping, climbing, and video games!
 <br/>
