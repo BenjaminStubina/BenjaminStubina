@@ -12,8 +12,8 @@ I'm Benjamin Stubina, a former Materials Science Engineer turned self-taught ful
 <br/>
 
 ## Projects I'm working on:
-- <ins>**[ExtraExtra](https://extra-extra-client.vercel.app/)**</ins>: Web app designed to bring news to Canadians who are no longer able to see the news on META social media platforms due to a ban imposed by META in response to the Online News Act passed by the Canadian Federal Government in July of 2023.
-- <ins>**[Crochet Corner](https://crochet-corner.com)**</ins>: A refactored project I made as my capstone while at BrainStation related to learning to crochet.
+- **[ExtraExtra:](https://extra-extra-client.vercel.app/)** Web app designed to bring news to Canadians who are no longer able to see the news on META social media platforms due to a ban imposed by META in response to the Online News Act passed by the Canadian Federal Government in July of 2023.
+- **[Crochet Corner:](https://crochet-corner.com)** A refactored project I made as my capstone while at BrainStation related to learning to crochet.
 
 ## ***Languages and Tools:***
 
