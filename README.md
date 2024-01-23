@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Benjamin Stubina, a former Materials Science Engineer turned self-taught full-stack web developer from Canada. My passion for solving technical problems with creative solutions led me to pursue a career in software development. I take pride in the quality of the code I write and I'm always excited to learn from building projects and learning new technologies. I'm currently looking for a Jr/Internship frontend/full-stack role!
+I'm Benjamin Stubina, a former Materials Science Engineer turned self-taught full-stack developer from Canada. My passion for solving technical problems with creative solutions led me to pursue a career in software development. I take pride in the quality of the code I write and I'm always excited to learn from building projects and learning new technologies.
 
 ▪️ Completed a Software Engineering Bootcamp at [BrainStation](https://brainstation.io)
 <br/>
